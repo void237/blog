@@ -63,9 +63,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #2600ff;
+  color: #000000;
   text-align: left;
-  background-color: #9d00f888; }
+  background-color: #f800a56c; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -4630,7 +4630,7 @@ button.bg-light:focus {
   background-color: #cfd6db !important; }
 
 .bg-dark {
-  background-color: #11171a !important; }
+  background-color: #f787aa !important; }
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
@@ -7483,7 +7483,7 @@ body {
 .section-angle {
   position: relative;
   border-color: inherit;
-  background: #000000; }
+  background: #f787aa; }
   .section-angle:before, .section-angle:after {
     width: 0;
     height: 0;
