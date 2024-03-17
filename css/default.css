@@ -147,7 +147,7 @@ a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #f787aa;
+    color: #ffb7c5 ;
     text-decoration: none; }
 
 a:not([href]):not([tabindex]) {
@@ -1904,12 +1904,12 @@ fieldset:disabled a.btn {
 
 .btn-info {
   color: pink;
-  background-color: #f787aa;
-  border-color: #f787aa; }
+  background-color: #ffb7c5 ;
+  border-color: #ffb7c5 ; }
   .btn-info:hover {
     color: #ffffff;
-    background-color: ##f787aa;
-    border-color: ##f787aa; }
+    background-color: ##ffb7c5 ;
+    border-color: ##ffb7c5 ; }
   .btn-info:focus, .btn-info.focus {
     box-shadow: 0 0 0 0.2rem rgba(0, 229, 255, 0.5); }
   .btn-info.disabled, .btn-info:disabled {
@@ -2206,7 +2206,7 @@ fieldset:disabled a.btn {
   color: #FFB6C1;
   background-color: transparent; }
   .btn-link:hover {
-    color: #f787aa;
+    color: #ffb7c5 ;
     text-decoration: none;
     background-color: transparent;
     border-color: transparent; }
@@ -4630,7 +4630,7 @@ button.bg-light:focus {
   background-color: #cfd6db !important; }
 
 .bg-dark {
-  background-color: #f787aa !important; }
+  background-color: #ffb7c5  !important; }
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
@@ -7483,7 +7483,7 @@ body {
 .section-angle {
   position: relative;
   border-color: inherit;
-  background: #f787aa; }
+  background: #ffb7c5 ; }
   .section-angle:before, .section-angle:after {
     width: 0;
     height: 0;
@@ -7570,8 +7570,8 @@ body {
     height: 100vh; } }
 
 .bg-hero {
-  background-color: #f787aa;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 800 800'%3E%3Cg %3E%3Ccircle fill='#000000' cx='400' cy='400' r='600'/%3E%3Ccircle fill='#29000f' cx='400' cy='400' r='500'/%3E%3Ccircle fill='#5c0021' cx='400' cy='400' r='400'/%3E%3Ccircle fill='#f787aa' cx='400' cy='400' r='300'/%3E%3Ccircle fill='#c20045' cx='400' cy='400' r='200'/%3E%3Ccircle fill='#FFB6C1' cx='400' cy='400' r='100'/%3E%3C/g%3E%3C/svg%3E");
+  background-color: #ffb7c5;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 800 800'%3E%3Cg %3E%3Ccircle fill='#000000' cx='400' cy='400' r='600'/%3E%3Ccircle fill='#29000f' cx='400' cy='400' r='500'/%3E%3Ccircle fill='#5c0021' cx='400' cy='400' r='400'/%3E%3Ccircle fill='#ffb7c5 ' cx='400' cy='400' r='300'/%3E%3Ccircle fill='#c20045' cx='400' cy='400' r='200'/%3E%3Ccircle fill='#FFB6C1' cx='400' cy='400' r='100'/%3E%3C/g%3E%3C/svg%3E");
   /* background by SVGBackgrounds.com */
   background-attachment: fixed;
   background-size: cover;
@@ -7585,7 +7585,7 @@ body {
     left: 0;
     top: 0;
     content: "";
-    background-color:#F4C2C2; }
+    background-color: #ffb7c5; }
   .bg-hero .container {
     z-index: 2;
     position: relative; }
