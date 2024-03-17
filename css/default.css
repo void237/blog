@@ -3317,7 +3317,8 @@ input[type="button"].btn-block {
 .card-body {
   -ms-flex: 1 1 auto;
       flex: 1 1 auto;
-  padding: 1.25rem; }
+  padding: 1.25rem; 
+background-color: #ff4a6d;}
 
 .card-title {
   margin-bottom: 0.75rem; }
@@ -7398,7 +7399,8 @@ body {
   font-weight: 600; }
 
 .heading-black {
-  font-weight: 800; }
+  font-weight: 800; 
+color: #ff4a6d ;}
 
 /* Box shadow */
 .btn {
@@ -7472,7 +7474,7 @@ body {
 .navbar .navbar-brand {
   font-size: 1.5rem;
   font-weight: 900;
-  color: #FFB6C1;
+  color: #ff4a6d;
   text-transform: uppercase; }
 
 .navbar .navbar-nav .nav-item {
