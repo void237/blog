@@ -63,7 +63,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #000000;
+  color: pink;
   text-align: left;
   background-color: #f800a56c; }
 
@@ -1903,13 +1903,13 @@ fieldset:disabled a.btn {
       box-shadow: 0 0 0 0.2rem rgba(0, 230, 118, 0.5); }
 
 .btn-info {
-  color: #11171a;
-  background-color: #00e5ff;
-  border-color: #00e5ff; }
+  color: pink;
+  background-color: #f787aa;
+  border-color: #f787aa; }
   .btn-info:hover {
     color: #ffffff;
-    background-color: #00c3d9;
-    border-color: #00b7cc; }
+    background-color: ##f787aa;
+    border-color: ##f787aa; }
   .btn-info:focus, .btn-info.focus {
     box-shadow: 0 0 0 0.2rem rgba(0, 229, 255, 0.5); }
   .btn-info.disabled, .btn-info:disabled {
